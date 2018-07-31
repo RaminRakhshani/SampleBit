@@ -1,0 +1,21 @@
+﻿[
+  {
+    "Name": "Development",
+    "IsActive": true,
+    "DebugMode": true,
+    "AppInfo": {
+      "Name": "Wallet",
+      "Version": "1"
+    },
+    "Configs": [
+      {
+        "Key": "IdentityCertificatePassword",
+        "Value": "P@ssw0rd"
+      },
+      {
+        "Key": "AppConnectionString",
+        "Value": "Data Source=.;Initial Catalog=WalletDb;Integrated Security=True"
+      }
+    ]
+  }
+]
